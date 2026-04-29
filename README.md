@@ -1,16 +1,108 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**tusharr-mishra/tusharr-mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tushar Mishra
 
-Here are some ideas to get you started:
+**Computer Science Undergrad · Amity University, Noida**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build things to understand how they work — not to add lines to a CV.
+Exploring ML, Web, Systems and Cloud — one layer at a time.
+
+[![Email](https://img.shields.io/badge/Email-tusharmishra0710@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tusharmishra0710@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-tusharr--mishra-181717?style=flat&logo=github&logoColor=white)](https://github.com/tusharr-mishra)
+
+</div>
+
+---
+
+## What I'm Doing Right Now
+
+- Learning web development from the ground up — HTML → CSS → JS → backend
+- Strengthening CS fundamentals: DSA, OS, Databases
+- Revisiting ML projects to write cleaner, more explainable code
+- Understanding how real production systems are built and deployed
+
+---
+
+## Areas I'm Exploring
+
+**Machine Learning & AI**
+DNN, CNN, LSTM, RNN architectures. Built a flight delay prediction model using
+attention-based deep neural networks. Co-authored a research paper on AI in aviation safety.
+
+**Web Development**
+Learning frontend fundamentals, working toward full-stack understanding.
+Interested in how backend systems are designed, not just how they look.
+
+**Cloud & Systems**
+Beginner exposure to cloud computing and CI/CD concepts.
+Interested in deployment pipelines and how software runs at scale.
+
+**Data & Research**
+Comfortable working with datasets, writing structured analysis and presenting findings.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## Projects
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **Flight Delay Prediction** | Attention-based DNN to predict flight delays using historical aviation data | Python, DNN, CNN | [Repo](https://github.com/tusharr-mishra/flight-delay-prediction-dnn) |
+| **Aviation Predictive Maintenance** | Research paper on AI-driven maintenance scheduling for aircraft safety | ML, DL, Gen-AI | [Repo](https://github.com/tusharr-mishra/aviation-predictive-maintenance) |
+| **PM-FSS — AICraft 2.0** | Original AI-based idea presented at AICraft 2.0 competition | AI, Presentation | [Repo](https://github.com/tusharr-mishra/PM-FSS) |
+| **Carbon Footprint Analyser** | Java app that calculates carbon footprint from lifestyle inputs | Java | [Repo](https://github.com/tusharr-mishra/Carbon-Footprint-Aanlyser-Application) |
+| **SIH 2024** | Contributed to ideation, research & prototyping across 4 problem statements | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2024) |
+
+---
+
+## How I Work
+
+I prefer understanding things properly over moving fast and staying shallow.
+If I use something, I want to know why it works — not just that it works.
+
+I'm comfortable being a beginner. I'd rather write honest code at my actual level
+than copy-paste solutions I don't understand.
+
+I take notes, revisit projects, and improve what I've already built
+rather than always chasing the next thing.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tusharr-mishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharr-mishra&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+<em>"Still exploring. Always building."</em>
+</div>
