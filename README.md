@@ -3,11 +3,13 @@
 # Tushar Mishra
 
 **Computer Science Undergrad · Amity University, Noida**
+📍 India
 
 I build things to understand how they work — not to add lines to a CV.
 Exploring ML, Web, Systems and Cloud — one layer at a time.
 
 [![Email](https://img.shields.io/badge/Email-tusharmishra0710@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tusharmishra0710@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Mishra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME-HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-tusharr--mishra-181717?style=flat&logo=github&logoColor=white)](https://github.com/tusharr-mishra)
 
 </div>
@@ -66,11 +68,6 @@ Comfortable working with datasets, writing structured analysis and presenting fi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
-![Hackathon](https://img.shields.io/badge/Hackathon-FF4500?style=for-the-badge)
-![AI Project](https://img.shields.io/badge/AI%20Project-0A66C2?style=for-the-badge)
 
 </div>
 
@@ -78,13 +75,13 @@ Comfortable working with datasets, writing structured analysis and presenting fi
 
 ## Projects
 
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| **Flight Delay Prediction** | Attention-based DNN to predict flight delays using historical aviation data | Python, DNN, CNN | [Repo](https://github.com/tusharr-mishra/flight-delay-prediction-dnn) |
-| **Aviation Predictive Maintenance** | Research paper on AI-driven maintenance scheduling for aircraft safety | ML, DL, Gen-AI | [Repo](https://github.com/tusharr-mishra/ai-aviation-predictive-maintenance) |
-| **PM-FSS — AICraft 3.1** | Original AI-based idea presented at AICraft 3.1 competition | AI, Presentation | [Repo](https://github.com/tusharr-mishra/aicraft-pm-fss) |
-| **Carbon Footprint Analyser** | Java app that calculates carbon footprint from lifestyle inputs | Java | [Repo](https://github.com/tusharr-mishra/carbon_footprint_analyser) |
-| **SIH 2025** | Contributed to ideation, research & prototyping across 2 problem statements | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2025) |
+| Project | Description | What I Learned | Tech | Link |
+|---------|-------------|----------------|------|------|
+| **Flight Delay Prediction** | Attention-based DNN to predict flight delays using historical aviation data | How attention mechanisms improve temporal prediction over vanilla DNNs | Python, DNN, CNN | [Repo](https://github.com/tusharr-mishra/flight-delay-prediction-dnn) |
+| **Aviation Predictive Maintenance** | Research paper on AI-driven maintenance scheduling for aircraft safety | How to structure a research argument and connect ML theory to real-world safety systems | ML, DL, Gen-AI | [Repo](https://github.com/tusharr-mishra/ai-aviation-predictive-maintenance) |
+| **PM-FSS — AICraft 3.1** | Original AI-based idea presented at AICraft 3.1 competition | How to pitch a technical idea clearly under pressure | AI, Presentation | [Repo](https://github.com/tusharr-mishra/aicraft-pm-fss) |
+| **Carbon Footprint Analyser** | Java app that calculates carbon footprint from lifestyle inputs | How to design user input flows and map real-world logic into classes | Java | [Repo](https://github.com/tusharr-mishra/carbon_footprint_analyser) |
+| **SIH 2025** | Contributed to ideation, research & prototyping across 2 problem statements | How to work on ambiguous problems with a team under a deadline | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2025) |
 
 ---
 
