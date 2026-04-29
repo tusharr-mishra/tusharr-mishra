@@ -17,7 +17,7 @@ Exploring ML, Web, Systems and Cloud — one layer at a time.
 ## What I'm Doing Right Now
 
 - Learning web development from the ground up — HTML → CSS → JS → backend
-- Strengthening CS fundamentals: DSA, OS, Databases
+- Strengthening Core CS fundamentals
 - Revisiting ML projects to write cleaner, more explainable code
 - Understanding how real production systems are built and deployed
 
