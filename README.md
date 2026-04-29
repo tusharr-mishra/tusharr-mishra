@@ -27,7 +27,7 @@ Exploring ML, Web, Systems and Cloud — one layer at a time.
 
 **Machine Learning & AI**
 DNN, CNN, LSTM, RNN architectures. Built a flight delay prediction model using
-attention-based deep neural networks. Co-authored a research paper on AI in aviation safety.
+attention-based deep neural networks. Prepared a research paper on AI in aviation safety.
 
 **Web Development**
 Learning frontend fundamentals, working toward full-stack understanding.
@@ -51,7 +51,11 @@ Comfortable working with datasets, writing structured analysis and presenting fi
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -62,6 +66,11 @@ Comfortable working with datasets, writing structured analysis and presenting fi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![Hackathon](https://img.shields.io/badge/Hackathon-FF4500?style=for-the-badge)
+![AI Project](https://img.shields.io/badge/AI%20Project-0A66C2?style=for-the-badge)
 
 </div>
 
@@ -73,9 +82,9 @@ Comfortable working with datasets, writing structured analysis and presenting fi
 |---------|-------------|------|------|
 | **Flight Delay Prediction** | Attention-based DNN to predict flight delays using historical aviation data | Python, DNN, CNN | [Repo](https://github.com/tusharr-mishra/flight-delay-prediction-dnn) |
 | **Aviation Predictive Maintenance** | Research paper on AI-driven maintenance scheduling for aircraft safety | ML, DL, Gen-AI | [Repo](https://github.com/tusharr-mishra/aviation-predictive-maintenance) |
-| **PM-FSS — AICraft 2.0** | Original AI-based idea presented at AICraft 2.0 competition | AI, Presentation | [Repo](https://github.com/tusharr-mishra/PM-FSS) |
-| **Carbon Footprint Analyser** | Java app that calculates carbon footprint from lifestyle inputs | Java | [Repo](https://github.com/tusharr-mishra/Carbon-Footprint-Aanlyser-Application) |
-| **SIH 2024** | Contributed to ideation, research & prototyping across 4 problem statements | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2024) |
+| **PM-FSS — AICraft 3.1** | Original AI-based idea presented at AICraft 3.1 competition | AI, Presentation | [Repo]([https://github.com/tusharr-mishra/PM-FSS](https://github.com/tusharr-mishra/aicraft-pm-fss)) |
+| **Carbon Footprint Analyser** | Java app that calculates carbon footprint from lifestyle inputs | Java | [Repo](https://github.com/tusharr-mishra/carbon_footprint_analyser) |
+| **SIH 2025** | Contributed to ideation, research & prototyping across 2 problem statements | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2025) |
 
 ---
 
