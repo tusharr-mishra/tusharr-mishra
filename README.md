@@ -81,8 +81,8 @@ Comfortable working with datasets, writing structured analysis and presenting fi
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
 | **Flight Delay Prediction** | Attention-based DNN to predict flight delays using historical aviation data | Python, DNN, CNN | [Repo](https://github.com/tusharr-mishra/flight-delay-prediction-dnn) |
-| **Aviation Predictive Maintenance** | Research paper on AI-driven maintenance scheduling for aircraft safety | ML, DL, Gen-AI | [Repo](https://github.com/tusharr-mishra/aviation-predictive-maintenance) |
-| **PM-FSS — AICraft 3.1** | Original AI-based idea presented at AICraft 3.1 competition | AI, Presentation | [Repo]([https://github.com/tusharr-mishra/PM-FSS](https://github.com/tusharr-mishra/aicraft-pm-fss)) |
+| **Aviation Predictive Maintenance** | Research paper on AI-driven maintenance scheduling for aircraft safety | ML, DL, Gen-AI | [Repo](https://github.com/tusharr-mishra/ai-aviation-predictive-maintenance) |
+| **PM-FSS — AICraft 3.1** | Original AI-based idea presented at AICraft 3.1 competition | AI, Presentation | [Repo](https://github.com/tusharr-mishra/aicraft-pm-fss) |
 | **Carbon Footprint Analyser** | Java app that calculates carbon footprint from lifestyle inputs | Java | [Repo](https://github.com/tusharr-mishra/carbon_footprint_analyser) |
 | **SIH 2025** | Contributed to ideation, research & prototyping across 2 problem statements | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2025) |
 
