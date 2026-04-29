@@ -82,6 +82,8 @@ Comfortable working with datasets, writing structured analysis and presenting fi
 | **PM-FSS — AICraft 3.1** | Original AI-based idea presented at AICraft 3.1 competition | How to pitch a technical idea clearly under pressure | AI, Presentation | [Repo](https://github.com/tusharr-mishra/aicraft-pm-fss) |
 | **Carbon Footprint Analyser** | Java app that calculates carbon footprint from lifestyle inputs | How to design user input flows and map real-world logic into classes | Java | [Repo](https://github.com/tusharr-mishra/carbon_footprint_analyser) |
 | **SIH 2025** | Contributed to ideation, research & prototyping across 2 problem statements | How to work on ambiguous problems with a team under a deadline | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2025) |
+| **Personal Portfolio (HTML)** | Multi-page personal portfolio website showcasing education, skills, and projects | Learned how to structure a multi-page website and deploy it using GitHub Pages | HTML, GitHub Pages | [Repo](https://github.com/tusharr-mishra/portfolio-html) |
+| **Resource Sharing Library** | HTML-based platform to organize and access curated learning resources | Learned how to structure categorized content and manage multi-page navigation | HTML | [Repo](https://github.com/tusharr-mishra/resource-library-html) |
 
 ---
 
