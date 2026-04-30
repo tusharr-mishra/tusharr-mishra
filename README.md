@@ -84,6 +84,7 @@ Comfortable working with datasets, writing structured analysis and presenting fi
 | **SIH 2025** | Contributed to ideation, research & prototyping across 2 problem statements | How to work on ambiguous problems with a team under a deadline | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2025) |
 | **Personal Portfolio (HTML)** | Multi-page personal portfolio website showcasing education, skills, and projects | Learned how to structure a multi-page website and deploy it using GitHub Pages | HTML, GitHub Pages | [Repo](https://github.com/tusharr-mishra/portfolio-html) |
 | **Resource Sharing Library** | HTML-based platform to organize and access curated learning resources | Learned how to structure categorized content and manage multi-page navigation | HTML | [Repo](https://github.com/tusharr-mishra/resource-library-html) |
+| **Flora Care Manager (C++)** | Console-based plant management system with OOP design and file persistence for tracking plant care workflows | Applied OOP concepts (inheritance, polymorphism), file handling and dynamic memory management in a real-world system | C++, OOP, File Handling | [Repo](https://github.com/tusharr-mishra/flora-care-manager) |
 
 ---
 
