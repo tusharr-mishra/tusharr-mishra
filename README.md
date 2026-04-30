@@ -77,14 +77,14 @@ Comfortable working with datasets, writing structured analysis and presenting fi
 
 | Project | Description | What I Learned | Tech | Link |
 |---------|-------------|----------------|------|------|
+| **Flora Care Manager (C++)** | Console-based plant management system with OOP design and file persistence for tracking plant care workflows | Applied OOP concepts (inheritance, polymorphism), file handling and dynamic memory management in a real-world system | C++, OOP, File Handling | [Repo](https://github.com/tusharr-mishra/flora-care-manager) |
+| **Carbon Footprint Analyser** | Java app that calculates carbon footprint from lifestyle inputs | How to design user input flows and map real-world logic into classes | Java | [Repo](https://github.com/tusharr-mishra/carbon_footprint_analyser) |
 | **Flight Delay Prediction** | Attention-based DNN to predict flight delays using historical aviation data | How attention mechanisms improve temporal prediction over vanilla DNNs | Python, DNN, CNN | [Repo](https://github.com/tusharr-mishra/flight-delay-prediction-dnn) |
 | **Aviation Predictive Maintenance** | Research paper on AI-driven maintenance scheduling for aircraft safety | How to structure a research argument and connect ML theory to real-world safety systems | ML, DL, Gen-AI | [Repo](https://github.com/tusharr-mishra/ai-aviation-predictive-maintenance) |
 | **PM-FSS — AICraft 3.1** | Original AI-based idea presented at AICraft 3.1 competition | How to pitch a technical idea clearly under pressure | AI, Presentation | [Repo](https://github.com/tusharr-mishra/aicraft-pm-fss) |
-| **Carbon Footprint Analyser** | Java app that calculates carbon footprint from lifestyle inputs | How to design user input flows and map real-world logic into classes | Java | [Repo](https://github.com/tusharr-mishra/carbon_footprint_analyser) |
 | **SIH 2025** | Contributed to ideation, research & prototyping across 2 problem statements | How to work on ambiguous problems with a team under a deadline | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2025) |
 | **Personal Portfolio (HTML)** | Multi-page personal portfolio website showcasing education, skills, and projects | Learned how to structure a multi-page website and deploy it using GitHub Pages | HTML, GitHub Pages | [Repo](https://github.com/tusharr-mishra/portfolio-html) |
 | **Resource Sharing Library** | HTML-based platform to organize and access curated learning resources | Learned how to structure categorized content and manage multi-page navigation | HTML | [Repo](https://github.com/tusharr-mishra/resource-library-html) |
-| **Flora Care Manager (C++)** | Console-based plant management system with OOP design and file persistence for tracking plant care workflows | Applied OOP concepts (inheritance, polymorphism), file handling and dynamic memory management in a real-world system | C++, OOP, File Handling | [Repo](https://github.com/tusharr-mishra/flora-care-manager) |
 
 ---
 
