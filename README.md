@@ -83,7 +83,7 @@ Comfortable working with datasets, writing structured analysis and presenting fi
 | **Aviation Predictive Maintenance** | Research paper on AI-driven maintenance scheduling for aircraft safety | How to structure a research argument and connect ML theory to real-world safety systems | ML, DL, Gen-AI | [Repo](https://github.com/tusharr-mishra/ai-aviation-predictive-maintenance) |
 | **PM-FSS — AICraft 3.1** | Original AI-based idea presented at AICraft 3.1 competition | How to pitch a technical idea clearly under pressure | AI, Presentation | [Repo](https://github.com/tusharr-mishra/aicraft-pm-fss) |
 | **SIH 2025** | Contributed to ideation, research & prototyping across 2 problem statements | How to work on ambiguous problems with a team under a deadline | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2025) |
-| **Personal Portfolio (HTML)** | Multi-page personal portfolio website showcasing education, skills, and projects | Learned how to structure a multi-page website and deploy it using GitHub Pages | HTML, GitHub Pages | [Repo](https://github.com/tusharr-mishra/portfolio-html) |
+| **Personal Portfolio (HTML + CSS)** | Multi-page portfolio website upgraded with CSS to improve layout, spacing, and visual structure across all sections | Improved UI using CSS (Flexbox & Grid), enhanced readability, and structured content presentation | HTML, CSS, GitHub Pages | [Repo](https://github.com/tusharr-mishra/portfolio-html) |
 | **Resource Sharing Library** | HTML-based platform to organize and access curated learning resources | Learned how to structure categorized content and manage multi-page navigation | HTML | [Repo](https://github.com/tusharr-mishra/resource-library-html) |
 
 ---
