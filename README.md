@@ -84,7 +84,7 @@ Comfortable working with datasets, writing structured analysis and presenting fi
 | **PM-FSS — AICraft 3.1** | Original AI-based idea presented at AICraft 3.1 competition | How to pitch a technical idea clearly under pressure | AI, Presentation | [Repo](https://github.com/tusharr-mishra/aicraft-pm-fss) |
 | **SIH 2025** | Contributed to ideation, research & prototyping across 2 problem statements | How to work on ambiguous problems with a team under a deadline | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2025) |
 | **Personal Portfolio (HTML + CSS)** | Multi-page portfolio website upgraded with CSS to improve layout, spacing, and visual structure across all sections | Improved UI using CSS (Flexbox & Grid), enhanced readability, and structured content presentation | HTML, CSS, GitHub Pages | [Repo](https://github.com/tusharr-mishra/portfolio-html) |
-| **Resource Sharing Library** | HTML-based platform to organize and access curated learning resources | Learned how to structure categorized content and manage multi-page navigation | HTML | [Repo](https://github.com/tusharr-mishra/resource-library-html) |
+| **Resource Sharing Library (HTML + CSS)** | Resource-based multi-page website designed to organize and present curated learning materials with improved layout and structure using CSS | Used CSS to enhance layout, spacing, and navigation while structuring categorized content effectively | HTML, CSS, GitHub Pages | [Repo](https://github.com/tusharr-mishra/resource-library-html) |
 
 ---
 
