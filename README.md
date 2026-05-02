@@ -9,7 +9,7 @@ I build things to understand how they work — not to add lines to a CV.
 Exploring ML, Web, Systems and Cloud — one layer at a time.
 
 [![Email](https://img.shields.io/badge/Email-tusharmishra0710@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tusharmishra0710@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Mishra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Mishra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharr-mishra)
 [![GitHub](https://img.shields.io/badge/GitHub-tusharr--mishra-181717?style=flat&logo=github&logoColor=white)](https://github.com/tusharr-mishra)
 
 </div>
