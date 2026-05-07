@@ -104,15 +104,14 @@ rather than always chasing the next thing.
 
 ## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tusharr-mishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharr-mishra&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharr-mishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharr-mishra&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
-<div align="center">
-<em>"Still exploring. Always building."</em>
-</div>
+<p align="center">
+  <em>"Still exploring. Always building."</em>
+</p>
