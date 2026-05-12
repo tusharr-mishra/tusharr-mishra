@@ -1,202 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a2a4a,100:0a0f1e&height=120&section=header&text=Tushar%20Mishra&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
-
-</div>
-
-<div align="center">
+# Tushar Mishra
 
 **Computer Science Undergrad · Amity University, Noida**
+📍 India
 
-📍 India &nbsp;|&nbsp; ML · Web · Systems · Cloud
+I build things to understand how they work — not to add lines to a CV.
+Exploring ML, Web, Systems and Cloud — one layer at a time.
 
-<br/>
-
-*I build things to understand how they work — not to add lines to a CV.*<br/>
-*Exploring one layer at a time. Staying honest about where I am.*
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-tusharmishra0710@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tusharmishra0710@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharr-mishra)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-tusharr--mishra-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tusharr-mishra)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00d4aa?style=flat-square&logo=vercel&logoColor=white)](https://tusharr-mishra.github.io/portfolio-html/)
+[![Email](https://img.shields.io/badge/Email-tusharmishra0710@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tusharmishra0710@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Mishra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tusharr-mishra)
+[![GitHub](https://img.shields.io/badge/GitHub-tusharr--mishra-181717?style=flat&logo=github&logoColor=white)](https://github.com/tusharr-mishra)
 
 </div>
 
 ---
 
-## 🔭 &nbsp; What I'm Doing Right Now
+## What I'm Currently Working On
 
-- Building web projects from the ground up — HTML → CSS → JS → backend
-- Strengthening Core CS fundamentals (DSA, OS, DBMS)
-- Revisiting ML projects to write cleaner, more explainable code
-- Understanding how real production systems are built and deployed
-
----
-
-## 🧭 &nbsp; Areas I'm Exploring
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 Machine Learning & AI**
-
-DNN, CNN, LSTM, RNN architectures. Built a flight delay prediction model using attention-based deep neural networks. Prepared a research paper on AI in aviation safety.
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 Web Development**
-
-Learning frontend fundamentals, working toward full-stack understanding. Interested in how backend systems are designed — not just how they look.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**☁️ Cloud & Systems**
-
-Beginner exposure to cloud computing and CI/CD concepts. Interested in deployment pipelines and how software runs at scale.
-
-</td>
-<td width="50%" valign="top">
-
-**📊 Data & Research**
-
-Comfortable working with datasets, writing structured analysis, and presenting findings clearly.
-
-</td>
-</tr>
-</table>
+- Building modern frontend applications and responsive dashboard systems
+- Learning full-stack web development — HTML, CSS, JavaScript, backend fundamentals, and deployment workflows
+- Exploring cloud technologies, scalable system architecture, and production-grade application design
+- Strengthening Core CS fundamentals and problem-solving skills
+- Developing aviation-focused technology projects involving analytics, AI-driven interfaces, and operational intelligence systems
+- Understanding how real-world software products are engineered, optimized, and deployed
 
 ---
 
-## 🛠 &nbsp; Tech Stack
+## Areas I'm Exploring
+
+### ✈ Machine Learning & AI
+Exploring deep learning architectures including DNNs, CNNs, RNNs, and LSTMs. Built an AI-based flight delay prediction system and worked on aviation safety research involving intelligent operational analysis.
+
+### 🌐 Web Development
+Building modern frontend applications while progressing toward full-stack development. Interested in how scalable backend systems, APIs, and production workflows are architected.
+
+### ☁ Cloud & Systems
+Exploring cloud computing fundamentals, CI/CD workflows, deployment pipelines, and how modern software systems operate at scale.
+
+### 📊 Data & Research
+Experienced in working with structured datasets, analytical workflows, technical documentation, and research-oriented problem solving.
+
+---
+
+## Tech Stack
 
 <div align="center">
-
-**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Web**
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**ML / AI**
-
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Tools & Environment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 &nbsp; Projects
+## Projects
 
-<details>
-<summary><b>🤖 Machine Learning & AI</b></summary>
+| Project | Description | What I Learned | Tech | Link |
+|---------|-------------|----------------|------|------|
+| **Flora Care Manager (C++)** | Console-based plant management system with OOP design and file persistence for tracking plant care workflows | Applied OOP concepts (inheritance, polymorphism), file handling and dynamic memory management in a real-world system | C++, OOP, File Handling | [Repo](https://github.com/tusharr-mishra/flora-care-manager) |
+| **Carbon Footprint Analyser** | Java app that calculates carbon footprint from lifestyle inputs | How to design user input flows and map real-world logic into classes | Java | [Repo](https://github.com/tusharr-mishra/carbon_footprint_analyser) |
+| **Flight Delay Prediction** | Attention-based DNN to predict flight delays using historical aviation data | How attention mechanisms improve temporal prediction over vanilla DNNs | Python, DNN, CNN | [Repo](https://github.com/tusharr-mishra/flight-delay-prediction-dnn) |
+| **Aviation Predictive Maintenance** | Research paper on AI-driven maintenance scheduling for aircraft safety | How to structure a research argument and connect ML theory to real-world safety systems | ML, DL, Gen-AI | [Repo](https://github.com/tusharr-mishra/ai-aviation-predictive-maintenance) |
+| **PM-FSS — AICraft 3.1** | Original AI-based idea presented at AICraft 3.1 competition | How to pitch a technical idea clearly under pressure | AI, Presentation | [Repo](https://github.com/tusharr-mishra/aicraft-pm-fss) |
+| **SIH 2025** | Contributed to ideation, research & prototyping across 2 problem statements | How to work on ambiguous problems with a team under a deadline | Research, PPT | [Repo](https://github.com/tusharr-mishra/SIH-2025) |
+| **Personal Portfolio (HTML + CSS)** | Multi-page portfolio website upgraded with CSS to improve layout, spacing, and visual structure across all sections | Improved UI using CSS (Flexbox & Grid), enhanced readability, and structured content presentation | HTML, CSS, GitHub Pages | [Repo](https://github.com/tusharr-mishra/portfolio-html) / [Live](https://tusharr-mishra.github.io/portfolio-html/) |
+| **Resource Sharing Library (HTML + CSS)** | Resource-based multi-page website designed to organize and present curated learning materials with improved layout and structure using CSS | Used CSS to enhance layout, spacing, and navigation while structuring categorized content effectively | HTML, CSS, GitHub Pages | [Repo](https://github.com/tusharr-mishra/resource-library-html) / [Live]( https://tusharr-mishra.github.io/resource-library-html/) |
+| **Amazon Clone (HTML + CSS)** | Frontend clone of the Amazon homepage built using HTML and CSS with responsive sections, navigation bar, hero area, product cards, and footer styling | Improved understanding of Flexbox, layout structuring, positioning, spacing, responsive design basics, and real-world UI recreation | HTML, CSS, GitHub Pages | [Repo](https://github.com/tusharr-mishra/amazon-clone-website) / [Live](https://tusharr-mishra.github.io/amazon-clone-website/) |
+ **Rock Paper Scissors Web Game** | Interactive browser-based Rock Paper Scissors game featuring real-time gameplay, dynamic score tracking, responsive UI, and JavaScript-driven game logic | Strengthened understanding of DOM manipulation, event handling, conditional logic, randomization, responsive frontend development, and interactive UI behavior | HTML, CSS, JavaScript, GitHub Pages | [Repo](https://github.com/tusharr-mishra/rock-paper-scissors-webgame) / [Live](https://tusharr-mishra.github.io/rock-paper-scissors-webgame/) |
+ | **Currency Converter Web Application** | Responsive currency converter web application featuring real-time exchange rate conversion, country flag integration, dynamic currency selection, and API-driven conversion functionality | Strengthened understanding of API integration, Fetch API, async/await, DOM manipulation, event handling, responsive frontend development, and dynamic UI rendering | HTML, CSS, JavaScript, Exchange Rate API, GitHub Pages | [Repo](https://github.com/tusharr-mishra/currency-converter-webapp) / [Live](https://tusharr-mishra.github.io/currency-converter-webapp/) |
+ | **SkyIntel Aviation Dashboard** | Modern aviation operations intelligence dashboard featuring live flight monitoring, airport weather intelligence, AI-powered delay prediction, aviation analytics, operational insights, responsive dark/light themes, and interactive aviation UI systems | Strengthened understanding of DOM manipulation, dynamic rendering, filtering systems, event-driven architecture, Intersection Observer API, localStorage persistence, responsive frontend design, reusable UI components, animation systems, and modern dashboard development workflows | HTML, CSS, JavaScript, GitHub Pages | [Repo](https://github.com/tusharr-mishra/skyintel-aviation-dashboard) / [Live](https://tusharr-mishra.github.io/skyintel-aviation-dashboard/) |
+ 
+---
 
-<br/>
+## How I Approach Learning
 
-| Project | Description | Tech |
-|---|---|---|
-| [**Flight Delay Prediction**](https://github.com/tusharr-mishra/flight-delay-prediction-dnn) | Attention-based DNN predicting flight delays using historical aviation data | Python, DNN, CNN |
-| [**Aviation Predictive Maintenance**](https://github.com/tusharr-mishra/ai-aviation-predictive-maintenance) | Research paper on AI-driven maintenance scheduling for aircraft safety | ML, DL, Gen-AI |
-| [**PM-FSS — AICraft 3.1**](https://github.com/tusharr-mishra/aicraft-pm-fss) | Original AI-based concept presented at AICraft 3.1 competition | AI, Research |
-| [**SIH 2025**](https://github.com/tusharr-mishra/SIH-2025) | Ideation, research & prototyping across 2 Smart India Hackathon problem statements | Research, Prototyping |
+I prefer understanding systems deeply rather than rushing through technologies superficially.  
+If I build something, I want to understand why it works — not just how to make it run.
 
-</details>
-
-<details>
-<summary><b>🌐 Web Development</b></summary>
-
-<br/>
-
-| Project | Description | Tech | Live |
-|---|---|---|---|
-| [**SkyIntel Aviation Dashboard**](https://github.com/tusharr-mishra) | Aviation operations intelligence dashboard with AI insights, weather feeds, and glassmorphism UI | HTML, CSS, JS | — |
-| [**Personal Portfolio**](https://github.com/tusharr-mishra/portfolio-html) | Multi-page portfolio with Flexbox & Grid layout | HTML, CSS | [↗](https://tusharr-mishra.github.io/portfolio-html/) |
-| [**Currency Converter**](https://github.com/tusharr-mishra/currency-converter-webapp) | Real-time currency converter with Exchange Rate API and flag integration | HTML, CSS, JS | [↗](https://tusharr-mishra.github.io/currency-converter-webapp/) |
-| [**Rock Paper Scissors**](https://github.com/tusharr-mishra/rock-paper-scissors-webgame) | Interactive browser game with score tracking and DOM-driven logic | HTML, CSS, JS | [↗](https://tusharr-mishra.github.io/rock-paper-scissors-webgame/) |
-| [**Todo App**](https://github.com/tusharr-mishra/task-management-todo-app) | Task manager with filters, completion tracking, and dynamic UI | HTML, CSS, JS | [↗](https://tusharr-mishra.github.io/task-management-todo-app/) |
-| [**Amazon Clone**](https://github.com/tusharr-mishra/amazon-clone-website) | Frontend clone of Amazon homepage with responsive layout | HTML, CSS | [↗](https://tusharr-mishra.github.io/amazon-clone-website/) |
-| [**Resource Sharing Library**](https://github.com/tusharr-mishra/resource-library-html) | Multi-page site for organizing curated learning materials | HTML, CSS | [↗](https://tusharr-mishra.github.io/resource-library-html/) |
-
-</details>
-
-<details>
-<summary><b>💻 Systems & OOP</b></summary>
-
-<br/>
-
-| Project | Description | Tech |
-|---|---|---|
-| [**Flora Care Manager**](https://github.com/tusharr-mishra/flora-care-manager) | Console-based plant management system with OOP design and file persistence | C++, OOP |
-| [**Carbon Footprint Analyser**](https://github.com/tusharr-mishra/carbon_footprint_analyser) | Calculates carbon footprint from lifestyle inputs with class-based design | Java |
-
-</details>
+I value writing honest, explainable code at my current level and gradually improving it through iteration, debugging, and revisiting projects over time.
 
 ---
 
-## 🧠 &nbsp; How I Work
-
-> I prefer understanding things properly over moving fast and staying shallow.
-> If I use something, I want to know *why* it works — not just that it works.
-
-I'm comfortable being a beginner. I'd rather write honest code at my actual level than copy-paste solutions I don't understand.
-
-I take notes, revisit projects, and improve what I've already built — rather than always chasing the next thing.
-
----
-
-## 📊 &nbsp; GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tusharr-mishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharr-mishra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tusharr-mishra&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 ---
 
-## 📈 &nbsp; Activity
+## Activity-Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharr-mishra&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a2a4a,100:0a0f1e&height=100&section=footer" width="100%" />
-
-*"Still exploring. Always building."*
-
-</div>
+<p align="center">
+  <em>"Still exploring. Always building."</em>
+</p>
