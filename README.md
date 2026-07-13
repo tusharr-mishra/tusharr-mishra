@@ -60,8 +60,16 @@ Experienced in working with structured datasets, analytical workflows, technical
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -89,6 +97,7 @@ Experienced in working with structured datasets, analytical workflows, technical
  **Rock Paper Scissors Web Game** | Interactive browser-based Rock Paper Scissors game featuring real-time gameplay, dynamic score tracking, responsive UI, and JavaScript-driven game logic | Strengthened understanding of DOM manipulation, event handling, conditional logic, randomization, responsive frontend development, and interactive UI behavior | HTML, CSS, JavaScript, GitHub Pages | [Repo](https://github.com/tusharr-mishra/rock-paper-scissors-webgame) / [Live](https://tusharr-mishra.github.io/rock-paper-scissors-webgame/) |
  | **Currency Converter Web Application** | Responsive currency converter web application featuring real-time exchange rate conversion, country flag integration, dynamic currency selection, and API-driven conversion functionality | Strengthened understanding of API integration, Fetch API, async/await, DOM manipulation, event handling, responsive frontend development, and dynamic UI rendering | HTML, CSS, JavaScript, Exchange Rate API, GitHub Pages | [Repo](https://github.com/tusharr-mishra/currency-converter-webapp) / [Live](https://tusharr-mishra.github.io/currency-converter-webapp/) |
  | **SkyIntel Aviation Dashboard** | Modern aviation operations intelligence dashboard featuring live flight monitoring, airport weather intelligence, AI-powered delay prediction, aviation analytics, operational insights, responsive dark/light themes, and interactive aviation UI systems | Strengthened understanding of DOM manipulation, dynamic rendering, filtering systems, event-driven architecture, Intersection Observer API, localStorage persistence, responsive frontend design, reusable UI components, animation systems, and modern dashboard development workflows | HTML, CSS, JavaScript, GitHub Pages | [Repo](https://github.com/tusharr-mishra/skyintel-aviation-dashboard) / [Live](https://tusharr-mishra.github.io/skyintel-aviation-dashboard/) |
+| **MalIntent: Multi-Layer LLM Firewall** | AI-powered LLM security platform featuring multi-layer prompt injection detection, semantic threat analysis, jailbreak prevention, output validation, secure execution controls, OTP authentication, real-time analytics dashboard, Python SDK and Chrome browser protection for Third Party LLMs | Strengthened understanding of AI security, LLM firewall architecture, transformer-based NLP, PyTorch model integration, FastAPI backend development, React/Vite frontend engineering, PostgreSQL database design, semantic vector search (FAISS), secure authentication, browser extension development, REST APIs, Docker containerization, cloud deployment, and scalable full-stack application development | Python, FastAPI, React, Vite, PyTorch, PostgreSQL, Docker, Google Cloud Run | [Repo](https://github.com/tusharr-mishra/malintent-llm-firewall) / [Live](https://malintent-firewall.vercel.app/) |
  
 ---
 
